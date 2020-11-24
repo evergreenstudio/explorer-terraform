@@ -4,7 +4,7 @@
 
 ## Explorer
 
-* [PayBall 区块浏览器](explorer/payball-qu-kuai-liu-lan-qi.md)
+* [PayBall 区块浏览器](explorer/payball-blockchain-explorer.md)
 
 ## talkChat
 
