@@ -22,7 +22,6 @@ $ mainnet
 ```bash
 # 如果你需要使用RPC端口请求，可以使用我们的另外一个业务域名
 curl -X POST -H "Content-Type: application/json" -d '{"jsonrpc": "2.0","method":"eth_call","params":[],"id":1}' https://main.eth.api.lc
-curlcu cccadfiocc234
 ```
 {% endcode %}
 
