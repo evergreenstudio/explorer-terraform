@@ -1,6 +1,6 @@
 # Table of contents
 
-* [1](README.md)
+* [引言](README.md)
 * [FAQ](faq.md)
 * [PayBall Explorer](payball-explorer.md)
 * [主节点](https://main.eth.api.lc)
